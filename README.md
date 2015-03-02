@@ -14,7 +14,9 @@
 
 5.1    หลังจากเปิดใช้งาน  Paysolutions_Payso  แล้ว  ในอถบเมนูทางด้านซ้าย เลือก วิธีการชำระเงิน 
 SALES  ->  Payment Methods
+
 5.2	ทำการตั้งค่าในเมนู  Paysolution
+
 5.2.1    Enable [ การเปิดใช้งานระบบ ]	:	Yes [ ใช่ ]
 5.2.2    Title  [ หัวข้อ : ชื่อของ Payment Gateway ที่จะแสดงให้ผู้ใช้เลือกในขั้นตอนการสั่งซื้อ ]	:   Paysolutions Payment Gateway
 5.2.3    Merchant ID  [ รหัส Merchant 8 ตัว ]
